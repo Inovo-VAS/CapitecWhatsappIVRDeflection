@@ -1,0 +1,10 @@
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\bin\iocapitec.dll.config
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\bin\iocapitec.dll
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\bin\iocapitec.pdb
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\obj\Release\iocapitec.csproj.CoreCompileInputs.cache
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\obj\Release\iocapitec.csproj.CopyComplete
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\obj\Release\iocapitec.dll
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\obj\Release\iocapitec.pdb
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\obj\Release\iocapitec.csproj.AssemblyReference.cache
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\bin\Newtonsoft.Json.dll
+C:\Users\evert\source\repos\ConsoleApp1\iocapitec\bin\Newtonsoft.Json.xml
